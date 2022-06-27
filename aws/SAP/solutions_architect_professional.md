@@ -1,10 +1,6 @@
 # Solutions Architect Professionals
 
-Q19. 온프레미스 시스템과 AWS의 새로운 백엔드 간에 하이브리드 솔루션을 구축하고 있습니다. 현재 IT 인프라의 상태를 모니터링하고 문제에 대한 대응을 자동화하는 관리 애플리케이션을 보유하고 있습니다. 소비된 AWS 서비스의 상태를 애플리케이션에 통합하려고 합니다. 애플리케이션은 HTTPS 엔드포인트를 사용하여 업데이트를 수신합니다.
 
-A. AWS Personal Health Dashboard에서 AWS Health 이벤트의 변경 사항을 감지하고 이에 대응하도록 Amazon EventBridge (Amazon CloudWatch Events)를 구성합니다. Amazon SNS 주제에 메시지를 게시하고 관리 애플리케이션의 HTTPS 엔드포인트에 주제를 구독하도록 EventBridge 이벤트를 구성합니다.
-
----
 
 Q20. .NET으로 작성되었고 MySQL에 종속적인 애플리케이션을 20만명의 일일 사용자 요구를 충족하기 위해 확장 가능하고 가용성 높은 솔루션을 설계해야합니다.
 
