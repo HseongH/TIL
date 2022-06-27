@@ -1,15 +1,5 @@
 # Solutions Architect Professionals
 
-Q13. 매초 8KB의 게놈 데이터를 처리 및 분석하고 연구자에게 정보를 제공해야 하는 데이터 플랫폼으로 푸시합니다. 플랫폼은 다음 사항을 충족해야 합니다.
-
-- 인바운드 게놈 데이터에 대한 거의 실시간 분석을 제공합니다.
-- 데이터가 유연하고 평행하며 내구성이 있는지 확인하십시오.
-- 처리 결과를 데이터 웨어하우스로 전달합니다.
-
-A. Amazon Kinesis 데이터 스트림을 사용하여 인바운드 센서 데이터를 수집하고 Kinesis 클라이언트로 데이터를 분석한 다음 그 결과를 Amazon RDS 인스턴스에 저장합니다.
-
----
-
 Q14. AWS CloudFormation을 사용하여 인프라를 배포하는데 프로덕션 CloudFormation 스택이 삭제되면 Amazon RD5 데이터베이스 또는 Amazon EBS 볼륨에 저장된 중요한 데이터도 삭제될 수 있습니다.
 
 A. CloudFormation 템플릿을 수정하여 RDS 및 EBS 리소스에 삭제 정책 속성을 추가합니다.
