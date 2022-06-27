@@ -1,13 +1,5 @@
 # Solutions Architect Professionals
 
-Q11. AWS Import/Export의 Amazon EC2 VM 가져오기 기능을 사용해 온프레미스 환경에서 VM을 가져오고 있습니다. AMI를 생성해 해당 AMI를 기반으로 하는 Amazon EC2 인스턴스를 프로비저닝했습니다. EC2 인스턴스는 VPC의 퍼블릭 서브넷 내에서 실행되며 퍼블릭 IP 주소가 할당됩니다. EC2 인스턴스는 AWS 시스템 관리자 콘솔에서 관리형 인스턴스로 표시되지 않습니다.
-
-A.
-
-- Systems Manager 에이전트가 인스턴스에 설치되어 있고 실행 중인지 확인합니다.
-- 인스턴스에 Systems Manager를 위한 적절한 IAM 역할이 할당되었는지 확인합니다.
-
----
 
 Q12. AWS Organizations를 이용해 AWS 계정을 관리하고 있습니다. 보안을 위해 모든 조직의 멤버 계정에서 타사 알림 시스템과 통합할 수 있는 Amazon SNS 주제를 생성해야 합니다. AWS CloudFormation 템플릿을 사용하여 SNS 주제와 스택 세트를 생성하여 CloudFormation 스택의 배포를 자동화했습니다. 모든 AWS 계정에 CloudFormation 스택세트를 배포하기 위해 무엇을 해야합니까?
 
