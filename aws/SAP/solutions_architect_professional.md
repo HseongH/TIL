@@ -1,10 +1,6 @@
 # Solutions Architect Professionals
 
-Q6. IoT 디바이스로부터 많은 양의 데이터를 수집해 영구 Amazon EMR 클러스터의 하둡 분산 파일 시스템(HDFS)에 최적화된 행 열 형식(ORC) 파일로 저장됩니다. 동일한 EMR 클러스터에 배포된 Apache Presto의 SQL을 사용하여 데이터를 쿼리하며 항상 15분 미만동안 수행됩니다. 쿼리는 항상 오후 5시에서 10시 사이에만 수행됩니다.
 
-A. Amazon S3에 데이터를 저장해 AWS Glue 데이터 카탈로그와 Amazon Athena를 사용하여 데이터를 쿼리합니다.
-
----
 
 Q7. Amazon API Gateway를 사용하여 REST API를 구성했고 AWS 람다 함수 및 Amazon DynamoDB를 사용합니다. 특정 API 키로 인증된 소수의 클라이언트에서 PUT 요청 중 오류가 증가하고 있습니다.
 
