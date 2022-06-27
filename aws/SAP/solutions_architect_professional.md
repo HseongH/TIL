@@ -1,11 +1,5 @@
 # Solutions Architect Professionals
 
-Q10. Amazon RDS Multi-AZ 배포를 사용하여 게임 리더보드를 만들었습니다. 사용자 수가 증가하고 있으며 플레이어 순위를 얻기 위한 쿼리는 시간이 지남에 따라 점점 느려지고 있습니다.
-
-A. 리더보드 데이터를 RDS DB 인스턴스에 보관합니다. Redis용 Amazon ElastiCache 클러스터의 다중 AZ 배포를 프로비저닝합니다.
-
----
-
 Q11. AWS Import/Export의 Amazon EC2 VM 가져오기 기능을 사용해 온프레미스 환경에서 VM을 가져오고 있습니다. AMI를 생성해 해당 AMI를 기반으로 하는 Amazon EC2 인스턴스를 프로비저닝했습니다. EC2 인스턴스는 VPC의 퍼블릭 서브넷 내에서 실행되며 퍼블릭 IP 주소가 할당됩니다. EC2 인스턴스는 AWS 시스템 관리자 콘솔에서 관리형 인스턴스로 표시되지 않습니다.
 
 A.
