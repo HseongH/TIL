@@ -5,7 +5,7 @@ Q21. 한 회사의 보안 규정 준수 요구 사항에 따르면 모든 Amazon
 A.
 
 - AWS Lambda를 사용하여 자동 승인 규칙 작성 승인된 AMI 목록을 AWS 시스템 관리자 파라미터 스토어에 저장 Amazon EventBridge를 사용하여 30일마다 모든 EC2 인스턴스에서 AWS 시스템 관리자 자동화 문서를 트리거합니다.
-- Amazon 인스펙터를 사용하여 스캔해야 하는 AMI에서 시작된 EC2 인스턴스에 대해 CVE 평가를 실행합니다.
+- Amazon Inspector를 사용하여 스캔해야 하는 AMI에서 시작된 EC2 인스턴스에 대해 CVE 평가를 실행합니다.
 
 ---
 
