@@ -1,13 +1,5 @@
 # Solutions Architect Professionals
 
-
-
-Q7. Amazon API Gateway를 사용하여 REST API를 구성했고 AWS 람다 함수 및 Amazon DynamoDB를 사용합니다. 특정 API 키로 인증된 소수의 클라이언트에서 PUT 요청 중 오류가 증가하고 있습니다.
-
-A. 클라이언트 애플리케이션에서 지수 백오프와 불규칙한 변동이 있는 재시도 로직을 구현합니다. 오류 발생 시 상세한 오류 메시지가 나오는 지 확인합니다.
-
----
-
 Q8. 두 AWS 리전에서 애플리케이션을 배포하며 애플리케이션은 각 리전의 ALB 뒤의 Amazon EC2 인스턴스 세트에서 제공됩니다. 가장 가까운 지역에서 서비스가 제공되어야 하며 가장 가까운 리전에서 에셋을 사용할 수 없는 경우 다른 리전에서 가져와야 합니다.
 
 A. 각 ALB에 대해 Amazon Route 53 상태 확인을 생성해 두 ALB를 가리키는 Route53 지연 시간 별칭 레코드를 생성합니다. Evaluate TargetHealth 값을 YES로 설정합니다.
