@@ -1,11 +1,5 @@
 # Solutions Architect Professionals
 
-Q18. Windows용 Amazon FSx 파일 서버 타일 시스템에 사용자 프록시를 저장하고 있습니다. Me 시스템은 DNS 별칭으로 구성되며 자체 관리형 Active Directory에 연결됩니다. 파일 시스템의 성능이 저하되어 많은 유저가 Workspaces를 사용하기 시작하면 로그인 시간이 허용되지 않는 수준으로 늘어납니다. 처리량이 16MBps인 HDD 스토리지에 파일 시스템을 만들었습니다.
-
-A. Windows PowerShell 명령을 사용하여 기존 파일 시스템에서 섀도 복사본을 사용하도록 설정합니다. 섀도 복제본 작업을 예약하여 파일 시스템의 시점 백업을 만듭니다. 이전 버전을 복원하도록 선택합니다. SSD 스토리지 및 32MBps의 처리량을 사용하여 Windows 파일 서버용 새 FSx 파일 시스템 만들기 복사 작업이 완료되면 DNS 별칭을 조정합니다. 원본 파일 시스템을 삭제합니다.
-
----
-
 Q19. 온프레미스 시스템과 AWS의 새로운 백엔드 간에 하이브리드 솔루션을 구축하고 있습니다. 현재 IT 인프라의 상태를 모니터링하고 문제에 대한 대응을 자동화하는 관리 애플리케이션을 보유하고 있습니다. 소비된 AWS 서비스의 상태를 애플리케이션에 통합하려고 합니다. 애플리케이션은 HTTPS 엔드포인트를 사용하여 업데이트를 수신합니다.
 
 A. AWS Personal Health Dashboard에서 AWS Health 이벤트의 변경 사항을 감지하고 이에 대응하도록 Amazon EventBridge (Amazon CloudWatch Events)를 구성합니다. Amazon SNS 주제에 메시지를 게시하고 관리 애플리케이션의 HTTPS 엔드포인트에 주제를 구독하도록 EventBridge 이벤트를 구성합니다.
