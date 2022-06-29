@@ -494,44 +494,6 @@ A.
 
 ---
 
-Q145. 솔루션 설계자는 새 Amazon S3 버킷에 저장될 객체에 대해 클라이언트 측 암호화 메커니즘을 구현해야 합니다.솔루션스 아키텍트는 이를 위해 AWS 키 관리 서비스 (AWS KMS) 에 저장되는 CMK를 생성했습니다.
-솔루션스 아키텍트는 다음과 같은 IAM 정책을 생성하여 IAM 역할에 연결했습니다.
-
-```JSON
-{
-    "Version": "2012-10-17",
-    "Statement": [
-        {
-            "Sid": "DownloadUpload",
-            "Action": [
-                "s3:GetObject",
-                "s3:GetObjectVersion",
-                "s3:PutObject",
-                "s3:PutObjectAcl"
-            ],
-            "Effect": "Allow",
-            "Resource": "arn:aws:s3:::BucketName/*"
-        },
-        {
-            "Sid": "KMSAccess",
-            "Action": [
-                "kms:Decrypt",
-                "kms:Encrypt"
-            ],
-            "Effect": "Allow",
-            "Resource": "arn:aws:kms:Region:Account:key/Key ID"
-        }
-    ]
-}
-```
-
-테스트 중에 솔루션 아키텍트는 S3 버킷의 기존 테스트 객체를 성공적으로 가져올 수 있었습니다. 하지만 새 객체를 업로드하려고 하면 오류 메시지가 표시되었습니다.오류 메시지는 나에게 행동이 금지되었다고 말했습니다.
-모든 요구 사항을 충족하기 위해 솔루션스 아키텍트가 IAM 정책에 추가해야 하는 작업은 무엇입니까?
-
-A. Kms:GenerateDataKey
-
----
-
 Q146. 한 회사가 인기있는 온라인 게임의 속편을 만들고 있습니다.전 세계의 많은 사용자가 출시 후 첫 주 이내에 게임을 플레이합니다.현재 이 게임은 단일 AWS 리전에 배포된 다음 구성 요소로 구성되어 있습니다.
 
 - 게임 자산을 저장하는 Amazon S3 버킷
