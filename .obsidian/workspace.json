@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "76294ea950a070a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbceb726947d5b50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "171aa91531852df6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Note/2024-05-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a924ef2cd9d98463",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "064d97def9b47b35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/template/Light Blue 스타일 적용.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36db01763585856e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0622659eb1ba038e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3220d7672101c2c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "550de4282bd0f6f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72a3594a342fa722",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "310206ac150327c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "70518119611c09d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d24caff0673eb7bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Note/2024-05-21.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6020b418d8dbf101",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Note/2024-05-21.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "305a3dddcf36b0bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4acf33f31c6974b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Note/2024-05-21.md"
+              }
+            }
+          },
+          {
+            "id": "0a80b978062fa06c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "171aa91531852df6",
+  "lastOpenFiles": [
+    "React/template/Light Blue 스타일 적용.md",
+    "Daily Note/2024-05-21.md",
+    "React/template",
+    "Daily Note",
+    "React/Component.md",
+    "React/정리.md",
+    "README.md",
+    "javascript/deep-dive/12. let const 키워드와 블록 레벨 스코프.md",
+    "javascript/deep-dive/13. 생성자 함수에 의한 객체 생성.md",
+    "javascript/deep-dive/14. 함수와 일급 객체.md",
+    "javascript/deep-dive/17. 빌트인 객체.md",
+    "javascript/deep-dive/03. 데이터 타입.md",
+    "javascript/deep-dive/02. 표현식과 문.md",
+    "javascript/deep-dive/01. 변수.md",
+    "javascript/core-javascript/데이터_타입.md",
+    "Set.md",
+    "React/Life_Cycle.md",
+    "2024-05-19.md",
+    "React/JSX.md",
+    "React/immer.md",
+    "javascript/deep-dive/this.md",
+    "javascript/deep-dive/전체정리.md",
+    "javascript/deep-dive/실행 컨텍스트.md",
+    "javascript/deep-dive/16. strict mode.md",
+    "javascript/deep-dive/15. 프로토타입.md",
+    "javascript/deep-dive/11. 전역 변수의 문제점.md",
+    "javascript/deep-dive/10. 스코프.md",
+    "javascript/deep-dive/09. 함수.md"
+  ]
+}
