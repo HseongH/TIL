@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-05-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a924ef2cd9d98463",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "064d97def9b47b35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/template/Light Blue 스타일 적용.md",
+                "file": "React Template/React Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "310206ac150327c0",
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/template/Light Blue 스타일 적용.md",
+                "file": "React Template/React Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/template/Light Blue 스타일 적용.md",
+                "file": "React Template/React Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/template/Light Blue 스타일 적용.md"
+                "file": "React Template/React Template.md"
               }
             }
           },
@@ -174,9 +155,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "064d97def9b47b35",
+  "active": "171aa91531852df6",
   "lastOpenFiles": [
     "Daily Note/2024-05-21.md",
+    "React Template/React Template.md",
+    "React Template",
     "React/template/Light Blue 스타일 적용.md",
     "React/template",
     "Daily Note",
@@ -202,7 +185,6 @@
     "javascript/deep-dive/16. strict mode.md",
     "javascript/deep-dive/15. 프로토타입.md",
     "javascript/deep-dive/11. 전역 변수의 문제점.md",
-    "javascript/deep-dive/10. 스코프.md",
-    "javascript/deep-dive/09. 함수.md"
+    "javascript/deep-dive/10. 스코프.md"
   ]
 }
