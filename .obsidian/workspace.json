@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-05-21.md",
+                "file": "React/template/Light Blue 스타일 적용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-05-21.md",
+                "file": "React/template/Light Blue 스타일 적용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-05-21.md"
+                "file": "React/template/Light Blue 스타일 적용.md"
               }
             }
           },
@@ -174,10 +174,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "171aa91531852df6",
+  "active": "064d97def9b47b35",
   "lastOpenFiles": [
-    "React/template/Light Blue 스타일 적용.md",
     "Daily Note/2024-05-21.md",
+    "React/template/Light Blue 스타일 적용.md",
     "React/template",
     "Daily Note",
     "React/Component.md",
