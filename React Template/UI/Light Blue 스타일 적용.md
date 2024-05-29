@@ -1,5 +1,2 @@
-- `light blue`에 적용된 `scss` 파일이 있는지 확인
-	- ~~있다면 적용
-	- 없다면
-		- `bootstrap`이 사용하는 방식에 맞춰 스타일을 override
-		- `light blue`의 스타일과 `override.css` 파일의 스타일을 하나로 통합
+- `bootstrap`이 사용하는 방식에 맞춰 스타일을 override
+- `light blue`의 스타일과 `override.css` 파일의 스타일을 하나로 통합

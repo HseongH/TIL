@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Template/React Template.md",
-                "mode": "source",
+                "file": "aws/Essential/02. EC2.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Template/React Template.md",
+                "file": "aws/Essential/02. EC2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React Template/React Template.md",
+                "file": "aws/Essential/02. EC2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React Template/React Template.md"
+                "file": "aws/Essential/02. EC2.md"
               }
             }
           },
@@ -157,8 +157,25 @@
   },
   "active": "171aa91531852df6",
   "lastOpenFiles": [
-    "React Template/로깅/로그 저장.md",
+    "aws/Essential/01. 클라우드 컴퓨팅.md",
+    "aws/Essential/02. EC2.md",
+    "aws/Essential/10. 클라우드 여정.md",
+    "aws/SAP/Q1.md",
+    "aws/Essential/09. 마이그레이션 및 혁신.md",
+    "aws/Essential/08.모듈 및 지원.md",
+    "aws/Essential/07.모니터링 및 분석.md",
+    "aws/Essential/06.보안.md",
+    "aws/Essential/05.스토리지 및 데이터베이스.md",
+    "aws/Essential/04.네트워킹.md",
+    "aws/Essential/03. 글로벌 인프라 및 안정성.md",
     "React Template/React Template.md",
+    "React Template/UI/Light Blue 스타일 적용.md",
+    "React Template/UI/디자인 시스템.md",
+    "Daily Note/2024-05-21.md",
+    "React Template/컴포넌트 관리/컴포넌트 분리 단위.md",
+    "React Template/컴포넌트 관리",
+    "React Template/컴포넌트 관리/효과적인 컴포넌트 관리방안.md",
+    "React Template/로깅/로그 저장.md",
     "React Template/로깅/로그 공통화.md",
     "React Template/렌더링 방식/SSR.md",
     "React Template/렌더링 방식/CSR.md",
@@ -167,30 +184,14 @@
     "React Template/서버 통신/인증인가.md",
     "React Template/서버 통신/서버 상태 관리.md",
     "React Template/서버 통신/AJAX 요청 관리.md",
-    "React Template/서버 통신/요청 동시 처리 전략.md",
-    "React Template/서버 통신/실패 복구 전략.md",
     "Next.js",
     "React Template/렌더링 방식",
     "React Template/로깅",
-    "React Template/UI/Table.md",
-    "React Template/UI/Form.md",
-    "React Template/UI/Light Blue 스타일 적용.md",
-    "React Template/UI/디자인 시스템.md",
-    "React Template/UI/테마.md",
-    "React Template/UI/Theme.md",
     "React Template/상태 관리",
     "React Template/서버 통신",
     "React Template/UI",
-    "Daily Note/2024-05-21.md",
     "React Template",
     "React/template",
-    "Daily Note",
-    "React/Component.md",
-    "React/정리.md",
-    "README.md",
-    "javascript/deep-dive/12. let const 키워드와 블록 레벨 스코프.md",
-    "javascript/deep-dive/13. 생성자 함수에 의한 객체 생성.md",
-    "javascript/deep-dive/14. 함수와 일급 객체.md",
-    "javascript/deep-dive/17. 빌트인 객체.md"
+    "Daily Note"
   ]
 }
