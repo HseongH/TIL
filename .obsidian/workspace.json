@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-07-25.md",
+                "file": "React Template/React Template.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-07-25.md",
+                "file": "React Template/React Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-07-25.md",
+                "file": "React Template/React Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-07-25.md"
+                "file": "React Template/React Template.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "171aa91531852df6",
   "lastOpenFiles": [
+    "Daily Note/2024-07-25.md",
     "React Template/UI/Global Config.md",
     "React Template/React Template.md",
     "README.md",
@@ -159,7 +160,6 @@
     "React Template/서버 통신/동시처리 전략.md",
     "Daily Note/2024-05-21.md",
     "Light Blue 스타일 적용.md",
-    "Daily Note/2024-07-25.md",
     "React Template/Components/Tree.md",
     "React Template/Components/Date Time Picker.md",
     "React Template/UI/Tailwind CSS.md",
