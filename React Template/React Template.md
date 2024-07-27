@@ -68,7 +68,7 @@
 ---
 ## UI
 - [[Tailwind CSS]]
-- [[Global Config]]
+- [[디자인시스템]]
 ---
 ## Routing
 - [[React Router Dom]]

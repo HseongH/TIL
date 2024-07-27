@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4617e16b5bc38465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gantt/Gantt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "310206ac150327c0",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Template/React Template.md",
+                "file": "Gantt/Gantt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React Template/React Template.md",
+                "file": "Gantt/Gantt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React Template/React Template.md"
+                "file": "Gantt/Gantt.md"
               }
             }
           }
@@ -146,11 +160,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "171aa91531852df6",
+  "active": "4617e16b5bc38465",
   "lastOpenFiles": [
-    "Daily Note/2024-07-25.md",
-    "React Template/UI/Global Config.md",
     "React Template/React Template.md",
+    "Gantt/Gantt.md",
+    "무제 파일.md",
+    "Daily Note/2024-07-27.md",
+    "Gantt",
+    "Daily Note/2024-07-26.md",
+    "React Template/UI/디자인시스템.md",
+    "React Template/Components/Accordion.md",
+    "Daily Note/2024-07-25.md",
     "README.md",
     "React Template/Routing/React Router Dom.md",
     "React Template/Routing",
@@ -170,11 +190,6 @@
     "React Template/Components/Menu.md",
     "React Template/Components/Toasts.md",
     "React Template/Components/Toggle Button.md",
-    "React Template/Components/Table.md",
-    "React Template/Components/Form.md",
-    "React Template/UI/Form.md",
-    "aws/Essential/02. EC2.md",
-    "aws/Essential/01. 클라우드 컴퓨팅.md",
     "React Template/Components",
     "React Template/컴포넌트 관리",
     "Next.js",
@@ -182,7 +197,6 @@
     "React Template/로깅",
     "React Template/상태 관리",
     "React Template/서버 통신",
-    "React Template/UI",
-    "React Template"
+    "React Template/UI"
   ]
 }
