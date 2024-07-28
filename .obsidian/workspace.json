@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "cbceb726947d5b50",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4617e16b5bc38465",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/2024-07-27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "62726c4f3388e480",
         "type": "tabs",
         "children": [
@@ -87,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "310206ac150327c0",
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-07-27.md",
+                "file": "Gantt/Gantt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-07-27.md",
+                "file": "Gantt/Gantt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-07-27.md"
+                "file": "Gantt/Gantt.md"
               }
             }
           }
@@ -165,10 +146,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4617e16b5bc38465",
+  "active": "604e6deecf1155f7",
   "lastOpenFiles": [
-    "Gantt/Gantt.md",
+    "Gantt/gantt.drawio",
+    "Daily Note/2024-07-28.md",
     "Daily Note/2024-07-27.md",
+    "Gantt/Gantt.md",
     "React Template/React Template.md",
     "무제 파일.md",
     "Gantt",
@@ -193,8 +176,6 @@
     "React Template/Components/Slider.md",
     "React Template/Components/Dropdown.md",
     "React Template/Components/Menu.md",
-    "React Template/Components/Toasts.md",
-    "React Template/Components/Toggle Button.md",
     "React Template/Components",
     "React Template/컴포넌트 관리",
     "Next.js",
