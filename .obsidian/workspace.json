@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gantt/Gantt.md",
+                "file": "React Template/React Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gantt/Gantt.md",
+                "file": "React Template/React Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gantt/Gantt.md",
+                "file": "React Template/React Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gantt/Gantt.md"
+                "file": "React Template/React Template.md"
               }
             }
           }
@@ -148,15 +148,18 @@
   },
   "active": "604e6deecf1155f7",
   "lastOpenFiles": [
-    "Gantt/gantt.drawio",
+    "React Template/UI/Headless UI.md",
+    "Daily Note/2024-07-30.md",
+    "React Template/UI/Tailwind CSS.md",
+    "React Template/UI/디자인시스템.md",
     "Daily Note/2024-07-28.md",
-    "Daily Note/2024-07-27.md",
     "Gantt/Gantt.md",
+    "Daily Note/2024-07-27.md",
+    "Gantt/gantt.drawio",
     "React Template/React Template.md",
     "무제 파일.md",
     "Gantt",
     "Daily Note/2024-07-26.md",
-    "React Template/UI/디자인시스템.md",
     "React Template/Components/Accordion.md",
     "Daily Note/2024-07-25.md",
     "README.md",
@@ -170,19 +173,16 @@
     "Light Blue 스타일 적용.md",
     "React Template/Components/Tree.md",
     "React Template/Components/Date Time Picker.md",
-    "React Template/UI/Tailwind CSS.md",
     "React Template/UI/테마.md",
     "React Template/Components/Footer.md",
     "React Template/Components/Slider.md",
     "React Template/Components/Dropdown.md",
-    "React Template/Components/Menu.md",
     "React Template/Components",
     "React Template/컴포넌트 관리",
     "Next.js",
     "React Template/렌더링 방식",
     "React Template/로깅",
     "React Template/상태 관리",
-    "React Template/서버 통신",
-    "React Template/UI"
+    "React Template/서버 통신"
   ]
 }

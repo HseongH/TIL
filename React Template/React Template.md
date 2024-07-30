@@ -2,7 +2,8 @@
 > 리액트를 이용한 프론트엔드 프레임워크 제작
 
 ## Package
-- [@fortawesome](https://fontawesome.com/)
+- [@headlessui/react](https://headlessui.com/)
+- [@heroicons/react](https://heroicons.com/)
 - [@tanstack/react-query](https://tanstack.com/query/latest)
 - [@tanstack/react-table](https://tanstack.com/table/latest)
 - [axios](https://axios-http.com/kr/docs/intro)
