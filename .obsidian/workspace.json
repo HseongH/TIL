@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Template/React Template.md",
+                "file": "React Template/Components/Accordion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Template/React Template.md",
+                "file": "React Template/Components/Accordion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React Template/React Template.md",
+                "file": "React Template/Components/Accordion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React Template/React Template.md"
+                "file": "React Template/Components/Accordion.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "604e6deecf1155f7",
   "lastOpenFiles": [
+    "React Template/React Template.md",
     "React Template/UI/Headless UI.md",
     "Daily Note/2024-07-30.md",
     "React Template/UI/Tailwind CSS.md",
@@ -156,7 +157,6 @@
     "Gantt/Gantt.md",
     "Daily Note/2024-07-27.md",
     "Gantt/gantt.drawio",
-    "React Template/React Template.md",
     "무제 파일.md",
     "Gantt",
     "Daily Note/2024-07-26.md",
