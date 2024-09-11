@@ -13,7 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Template/UI/디자인시스템.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38e11625cbae2222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Note/2024-09-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0c3d0d3f21a5c24d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04d2560dee2f3cae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Frontend.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "310206ac150327c0",
@@ -85,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Template/UI/디자인시스템.md",
+                "file": "Frontend/Frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React Template/UI/디자인시스템.md",
+                "file": "Frontend/Frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React Template/UI/디자인시스템.md"
+                "file": "Frontend/Frontend.md"
               }
             }
           }
@@ -146,13 +178,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "604e6deecf1155f7",
+  "active": "04d2560dee2f3cae",
   "lastOpenFiles": [
+    "Daily Note/2024-09-11.md",
     "React Template/React Template.md",
+    "Frontend/Frontend.md",
+    "README.md",
+    "Frontend",
     "React Template/UI/디자인시스템.md",
     "React Template/UI/Tailwind CSS.md",
     "React Template/Components/Radio Group.md",
-    "Daily Note/2024-09-11.md",
     "React Template/상태 관리/Zustand.md",
     "React Template/상태 관리/Recoil.md",
     "React Template/로깅/로그 저장.md",
@@ -165,24 +200,20 @@
     "Gantt/Gantt.md",
     "Daily Note/2024-07-27.md",
     "Gantt/gantt.drawio",
-    "무제 파일.md",
     "Gantt",
     "Daily Note/2024-07-26.md",
     "Daily Note/2024-07-25.md",
-    "README.md",
     "React Template/Routing/React Router Dom.md",
     "React Template/Routing",
     "React Template/서버 통신/Axios.md",
     "React Template/서버 통신/TanStack Query.md",
     "React Template/서버 통신/실패복구 전략.md",
     "React Template/서버 통신/동시처리 전략.md",
-    "Daily Note/2024-05-21.md",
     "React Template/Components",
     "React Template/컴포넌트 관리",
     "Next.js",
     "React Template/렌더링 방식",
     "React Template/로깅",
-    "React Template/상태 관리",
-    "React Template/서버 통신"
+    "React Template/상태 관리"
   ]
 }
