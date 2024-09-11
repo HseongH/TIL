@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Frontend/Frontend.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0c3d0d3f21a5c24d",
@@ -44,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Frontend.md",
+                "file": "Daily Note/2024-09-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Frontend.md",
+                "file": "Daily Note/2024-09-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Frontend.md",
+                "file": "Daily Note/2024-09-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Frontend.md"
+                "file": "Daily Note/2024-09-12.md"
               }
             }
           }
@@ -180,10 +179,11 @@
   },
   "active": "04d2560dee2f3cae",
   "lastOpenFiles": [
-    "Daily Note/2024-09-11.md",
-    "React Template/React Template.md",
     "Frontend/Frontend.md",
     "README.md",
+    "Daily Note/2024-09-12.md",
+    "Daily Note/2024-09-11.md",
+    "React Template/React Template.md",
     "Frontend",
     "React Template/UI/디자인시스템.md",
     "React Template/UI/Tailwind CSS.md",
