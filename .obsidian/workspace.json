@@ -4,49 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "62726c4f3388e480",
+        "id": "82774a60d293d49d",
         "type": "tabs",
         "children": [
           {
-            "id": "604e6deecf1155f7",
+            "id": "47734c08dc5a6f02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/Frontend.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38e11625cbae2222",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/2024-09-11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0c3d0d3f21a5c24d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "04d2560dee2f3cae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/2024-09-12.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "310206ac150327c0",
@@ -116,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-09-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-09-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Note/2024-09-12.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -177,13 +138,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "04d2560dee2f3cae",
+  "active": "47734c08dc5a6f02",
   "lastOpenFiles": [
     "Frontend/Frontend.md",
-    "README.md",
     "Daily Note/2024-09-12.md",
-    "Daily Note/2024-09-11.md",
     "React Template/React Template.md",
+    "Daily Note/2024-09-11.md",
+    "README.md",
     "Frontend",
     "React Template/UI/디자인시스템.md",
     "React Template/UI/Tailwind CSS.md",

@@ -11,8 +11,18 @@
 - drag and drop
 - ...
 ### 2.2 API 연동
-- 실패복구
-- 동시처리
+- [[실패복구 전략]]
+- [[동시처리 전략]]
 ### 2.3 로깅
-- 로깅방식 공통화
-- 필요한 로그 저장
+- [[로그 공통화]]
+- [[로그 저장]]
+---
+## 🔗참고
+- [Angular](https://angular.dev/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Downshift](https://www.downshift-js.com/)
+- [HealessUI](https://headlessui.com/)
+- [MUI](https://mui.com/)
+- [React Bootstrap](https://react-bootstrap.netlify.app/)
+- [TanStack Query](https://tanstack.com/query/latest)
+- [TanStack Table](https://tanstack.com/table/latest)

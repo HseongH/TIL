@@ -79,7 +79,6 @@
 - [prettier](https://prettier.io/)
 - [react-hook-form](https://react-hook-form.com/)
 - [react-router-dom](https://reactrouter.com/)
-- [recoil](https://recoiljs.org/ko/)
 - [storybook](https://storybook.js.org/)
 - [tailwindcss](https://tailwindcss.com/)
 - [zustand](https://zustand-demo.pmnd.rs/)
