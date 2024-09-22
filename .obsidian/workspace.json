@@ -11,8 +11,12 @@
             "id": "47734c08dc5a6f02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AFFiNE/AFFiNE 패키지 구조 변경.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AFFiNE/AFFiNE 패키지 구조 변경.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AFFiNE/AFFiNE 패키지 구조 변경.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AFFiNE/AFFiNE 패키지 구조 변경.md"
+              }
             }
           }
         ]
@@ -140,8 +148,14 @@
   },
   "active": "47734c08dc5a6f02",
   "lastOpenFiles": [
-    "Frontend/Frontend.md",
+    "AFFiNE/로컬 구동 방법.md",
+    "Daily Note/2024-09-21.md",
+    "Daily Note/2024-09-22.md",
+    "Daily Note/2024-09-20.md",
+    "AFFiNE/AFFiNE 패키지 구조 변경.md",
+    "AFFiNE",
     "Daily Note/2024-09-12.md",
+    "Frontend/Frontend.md",
     "React Template/React Template.md",
     "Daily Note/2024-09-11.md",
     "README.md",
@@ -164,17 +178,11 @@
     "Gantt",
     "Daily Note/2024-07-26.md",
     "Daily Note/2024-07-25.md",
-    "React Template/Routing/React Router Dom.md",
     "React Template/Routing",
-    "React Template/서버 통신/Axios.md",
-    "React Template/서버 통신/TanStack Query.md",
-    "React Template/서버 통신/실패복구 전략.md",
-    "React Template/서버 통신/동시처리 전략.md",
     "React Template/Components",
     "React Template/컴포넌트 관리",
     "Next.js",
     "React Template/렌더링 방식",
-    "React Template/로깅",
-    "React Template/상태 관리"
+    "React Template/로깅"
   ]
 }
