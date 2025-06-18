@@ -8,17 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47734c08dc5a6f02",
+            "id": "d989dee618086e43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/deep-dive/01. 변수.md",
-                "mode": "preview",
+                "file": "Daily Note/2025-06-18.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. 변수"
+              "title": "2025-06-18"
+            }
+          },
+          {
+            "id": "ff96187c42e48ffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Note/2025-06-18.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-18"
+            }
+          },
+          {
+            "id": "90e96735bcb5e63f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React Template/서버 통신/실패복구 전략.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "실패복구 전략"
+            }
+          },
+          {
+            "id": "4efbe5fe9910d28b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javascript/core-javascript/데이터_타입.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "데이터_타입"
             }
           }
         ]
@@ -94,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2025-03-25.md",
+                "file": "Daily Note/2025-05-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-03-25"
+              "title": "2025-05-09 의 백링크"
             }
           },
           {
@@ -169,8 +211,24 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "47734c08dc5a6f02",
+  "active": "d989dee618086e43",
   "lastOpenFiles": [
+    "javascript/deep-dive/전체정리.md",
+    "javascript/deep-dive/this.md",
+    "javascript/deep-dive/06. 타입 변환과 단축 평가.md",
+    "javascript/deep-dive/05. 제어문.md",
+    "javascript/deep-dive/04. 연산자.md",
+    "Frontend/Frontend.md",
+    "javascript/core-javascript/데이터_타입.md",
+    "javascript/deep-dive/01. 변수.md",
+    "javascript/deep-dive/16. strict mode.md",
+    "Gantt/Gantt.md",
+    "Daily Note/2025-06-18.md",
+    "Daily Note/2025-06-04.md",
+    "Daily Note/2025-05-21.md",
+    "React Template/로깅/로그 공통화.md",
+    "React Template/서버 통신/실패복구 전략.md",
+    "무제",
     "Daily Note/2025-05-09.md",
     "AFFiNE/로컬 구동 방법.md",
     "AFFiNE/AFFiNE.md",
@@ -184,28 +242,12 @@
     "Daily Note/2025-04-10.md",
     "Daily Note/2025-03-31.md",
     "Daily Note/2025-03-25.md",
-    "README.md",
-    "javascript/core-javascript/데이터_타입.md",
-    "Frontend/Frontend.md",
-    "Gantt/Gantt.md",
-    "React Template/서버 통신/동시처리 전략.md",
-    "Daily Note/2024-07-26.md",
-    "Daily Note/2024-07-25.md",
-    "React Template/UI/Tailwind CSS.md",
-    "React Template/UI/디자인시스템.md",
-    "Daily Note/2024-07-27.md",
-    "React/정리.md",
-    "javascript/deep-dive/전체정리.md",
-    "javascript/deep-dive/실행 컨텍스트.md",
-    "javascript/deep-dive/16. strict mode.md",
-    "React/ref.md",
     "AFFiNE",
     "Frontend",
     "Gantt/gantt.drawio",
     "Gantt",
     "React Template/Routing",
     "React Template/Components",
-    "React Template/컴포넌트 관리",
-    "Next.js"
+    "React Template/컴포넌트 관리"
   ]
 }
