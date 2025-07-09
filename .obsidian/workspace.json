@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발 문서 작싱/🧩 Software Design Specification (SDS).md",
+                "file": "개발 문서 작성/🧩 Software Design Specification (SDS).md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발 문서 작싱/📄 Software Requirements Specification (SRS).md",
+                "file": "개발 문서 작성/📄 Software Requirements Specification (SRS).md",
                 "mode": "source",
                 "source": false
               },
@@ -184,13 +184,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cb4b293919db7393",
+  "active": "3220d7672101c2c7",
   "lastOpenFiles": [
-    "개발 문서 작싱/🧩 Software Design Specification (SDS).md",
-    "개발 문서 작싱/🧾 Software Code Standards (SCS).md",
-    "개발 문서 작싱/📄 Software Requirements Specification (SRS).md",
+    "개발 문서 작성/🧩 Software Design Specification (SDS).md",
+    "개발 문서 작성/📄 Software Requirements Specification (SRS).md",
+    "개발 문서 작성/🧾 Software Code Standards (SCS).md",
     "Daily Note/2025-07-09.md",
-    "개발 문서 작싱",
+    "개발 문서 작성",
     "Daily Note/2025-07-07.md",
     "README.md",
     "AI Coding Assisstant.md",
