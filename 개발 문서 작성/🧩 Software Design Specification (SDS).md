@@ -8,11 +8,11 @@
 
 ### 1.3 용어 정의 (Definitions, Acronyms, and Abbreviations)
 
-| 용어 | 정의 |
-|------|------|
+| 용어  | 정의                                |
+| --- | --------------------------------- |
 | API | Application Programming Interface |
-| DTO | Data Transfer Object |
-| ERD | Entity-Relationship Diagram |
+| DTO | Data Transfer Object              |
+| ERD | Entity-Relationship Diagram       |
 
 ### 1.4 참조 문서 (References)
 - SRS 문서 v1.0
